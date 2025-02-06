@@ -2,6 +2,7 @@
 
 ## telegram群发，采集多功能营销工具，如果此项目对你有所帮助请star
 > 由于本人是一名高二学牲，更新较慢，请见谅
+> 最后测试时间 2025-02-06。所有功能均正常。
 
 ## 下载地址 https://github.com/Silzboy/telegram_expert/releases/download/telegram_expert/telegram_expert.7z
 
