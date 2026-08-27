@@ -2,7 +2,7 @@
 
 ## telegram群发，采集多功能营销工具，如果此项目对你有所帮助请star
 > 由于本人是一名高二学牲，更新较慢，请见谅
-> 最后测试时间 2026-07-05。所有功能均正常。程序有重大优化和升级，请下载最新版体验。
+> 最后测试时间 2026-08-27。所有功能均正常。程序有重大优化和升级，请下载最新版体验。
 
 ## 下载地址 https://github.com/Silzboy/telegram_expert/releases/download/telegram_expert/telegram_expert.7z
 
@@ -28,3 +28,7 @@
 ![图片](https://github.com/Silzboy/telegram_expert/blob/main/images/2.png?raw=true)
 
 ![图片](https://github.com/Silzboy/telegram_expert/blob/main/images/3.png?raw=true)
+
+![图片](https://github.com/Silzboy/telegram_expert/blob/main/images/4.png?raw=true)
+
+![图片](https://github.com/Silzboy/telegram_expert/blob/main/images/5.png?raw=true)
